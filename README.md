@@ -1,6 +1,29 @@
-# yarn-arts
-For sharing the results of my experiments
+# Somna's Yarn Arts
 
+### Table of Contents
+
+- [Techniques](#techniques)
+  - [Crochet](#crochet)
+    - [Tunisian](#tunisian)
+    - [Other](#other)
+- [Licence](#licence)
+
+
+## Techniques
+
+### Crochet
+
+#### Tunisian
+
+- [Tunisian Foundation Cast On Or Left Increase](./techniques/crochet/tunisian/TunisianFoundationCastOnOrLeftIncrease.md)
+- [Tunisian Toe First Sock Foundation](./techniques/crochet/tunisian/TunisianToeFirstSockFoundation.md)
+
+#### Other
+
+- [Pin Stripe Linked Double Crochet](./techniques/crochet/other/pin-stripe-ldc)
+
+
+## Licence
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
