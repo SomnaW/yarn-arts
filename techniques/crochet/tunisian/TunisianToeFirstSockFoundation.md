@@ -109,7 +109,7 @@ Preferred method, especially when you need more than a width of 8 (16 sts).
 #### Round 3
 
 1. Switch to the __FP hook__ and continue from the previous row without joining. Make sure you do not skip the first stitch as you normally would when working in the flat.
-1. TKS, TKS in next sp, TKS until there is only one stitch before the midpoint marker, TKS inc in next sp, TKS
+1. TKS, TKS inc in next sp, TKS until there is only one stitch before the midpoint marker, TKS inc in next sp, TKS
 1. Switch to the __RP hook__ and continue return pass until there is 2 loops on the hook. This can be done as needed going forward, as long as there is never less than 2 loops on the hook.
 1. TKS, TKS inc in next sp, TKS until there is only one stitch before the start of round marker, TKS inc in next sp, TKS
 1. Move markers as needed.
@@ -129,7 +129,7 @@ Repeat Round 3 and 4, increasing 4 stitches every other round, until the total n
 ## Future goals and questions
 
 - [ ] Add pictures for the explaination.
-- [ ] Experiment with extended return pass to a better understanding for when the added horizontal flexibility is desired.
+- [ ] Experiment with extended return pass for a better understanding of when added horizontal flexibility might be needed.
 - [x] Should I attach the pockets RS in or RS out? The Elf Coat pattern does it RS out, but I'm not sure why. That seems backwards to me. Maybe it will make more sense once I have one completed 
     * I went with RS in
 
