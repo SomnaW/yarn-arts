@@ -68,6 +68,5 @@ __WARNING:__ This should be practiced with scrap yarn several times before using
 - Is there a way to do the same thing with one hook?
 - Is there a way to hold the two hooks that is easier?
 - Add pictures for the explaination.
-- Share with Morale Fiber as thanks for her starting me on the Tunisian path
 - The resulting cast on loops seemed a bit large, even with keeping a tight tension. A smaller __casting hook__ might solve this, but what should the ratio be?
 - [x] Convert Judy's Magic Cast-On for toe up socks knit technique to Tunisian as an alternate way to make inset pockets in the round with a double hook. Put results [HERE](./TunisianToeFirstSockFoundation.md).

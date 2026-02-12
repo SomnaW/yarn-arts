@@ -70,7 +70,7 @@ __WARNING:__ This method can work for a small number of initial stitches. If you
 
 Preferred method, especially when you need more than a width of 8 (16 sts).
 
-1. With ball 1 of the yarn, measure out the long tail. This can be done by taking the spot you would normally put a slip knot and wrap the yarn around both hooks the number of stiches wide, half the total stitches, needed.
+1. With ball 1 of the yarn, measure out the long tail. This can be done by taking the spot you would normally put a slip knot and loosely wrap the yarn around one of the hooks the number of stiches wide, half the total stitches, needed. It is recommended to wrap in a yarn over direction to prevent untwisting of most yarn for this step.
 1. Unwrap the hoooks once you have your measured start point on the yarn.
 1. With the __RP hook__, at the measured out location on the yarn, lay the yarn over the hook, with the working part in front and the tail in back. Hold it in place with your right hand (thumb recommended) until you have a few loops completed.
 1. Hold both hooks parallel, pointing left, with the __FP hook__ on the top and the __RP hook__ on the bottom. The yarn should be behind, only around the __RP hook__.
@@ -128,6 +128,7 @@ Repeat Round 3 and 4, increasing 4 stitches every other round, until the total n
 
 ## Future goals and questions
 
+- [ ] Add pictures for the explaination.
 - [ ] Experiment with extended return pass to a better understanding for when the added horizontal flexibility is desired.
 - [x] Should I attach the pockets RS in or RS out? The Elf Coat pattern does it RS out, but I'm not sure why. That seems backwards to me. Maybe it will make more sense once I have one completed 
     * I went with RS in
