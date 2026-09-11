@@ -41,7 +41,7 @@ __WARNING:__ This should be practiced with scrap yarn several times before using
     - If this is not an increase, you may want to create your slipknot with looping under to maintain that direction throughout the bottom chain.
     - If this is an increase, keep in mind that this loop will be part of the bottom of the stitches.
     - If using mid row, you may want to pull the first loop up from the chain of the previous row
-2. Holding both hooks in the right hand vertically, the __receiving hook__ should be on the left and the __casting hook__ should be on the left. The yarn should be in front of the __receiving hook__.
+2. Holding both hooks in the right hand vertically, the __receiving hook__ should be on the left and the __casting hook__ should be on the right. The yarn should be in front of the __receiving hook__.
 3. Wrap the yarn from the front to the left and around behind the __receiving hook__. It would be clockwise if looking down from the hooks.
 4. Loop under the _casting hook__. This will be coming forward between the hooks and to the right around the __casting hook__.
 5. Pull through the loop on the __casting hook__. This will result in a chain with the __receiving hook__ in the back bump. The working yarn should be behind at this point.
