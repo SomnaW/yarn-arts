@@ -38,7 +38,7 @@ In my successful tests, everything was loop under for the __casting hook__ and l
 __WARNING:__ This should be practiced with scrap yarn several times before using good yarn.
 
 1. Start with an initial loop on the __casting hook__.
-    - If this is not an increase, you may want to even create your slipknot with looping under too maintain that direction throughout the bottom chain.
+    - If this is not an increase, you may want to create your slipknot with looping under to maintain that direction throughout the bottom chain.
     - If this is an increase, keep in mind that this loop will be part of the bottom of the stitches.
     - If using mid row, you may want to pull the first loop up from the chain of the previous row
 2. Holding both hooks in the right hand vertically, the __receiving hook__ should be on the left and the __casting hook__ should be on the left. The yarn should be in front of the __receiving hook__.
